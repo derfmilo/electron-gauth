@@ -28,7 +28,7 @@
     "chai": "^3.4.0",
     "co": "^4.5.2",
     "co-mocha": "^1.1.0",
-    "eslint": "^1.7.3",
+    "eslint": "^6.6.0",
     "eslint-config-airbnb": "0.1.0",
     "eslint-plugin-babel": "^2.1.1",
     "mocha": "^2.2.4",
